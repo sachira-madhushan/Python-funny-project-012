@@ -1,2 +1,2 @@
-# Python-funny-project-012
+# Python-funny-project-02
 Loading screen
